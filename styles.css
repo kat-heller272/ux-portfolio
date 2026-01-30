@@ -224,11 +224,15 @@ figcaption {
 	main {
 		width: 90%;
 	}
+	.skills, .about, .case-study {
+    padding: 20px 40px;
+	}
 }
 @media (max-width: 624px) {
 	.skills-list {
 		grid-template-columns: repeat(1, 1fr);
 	}
-}
-.button {
+	.skills, .about, .case-study {
+    padding: 15px 30px;
+	}
 }
