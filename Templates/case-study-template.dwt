@@ -8,6 +8,11 @@
 <link href="../styles.css" rel="stylesheet" type="text/css">
 	<link rel="icon" type="image/png" href="../assets/favicon.png">
 <!-- TemplateBeginEditable name="head" -->
+	<meta property="og:title" content="Kate Heller UX Design | Portfolio">
+<meta property="og:description" content="Human-centered UX Design">
+<meta property="og:image" content="https://kat-heller272.github.io/ux-portfolio/images/og_image.png">
+<meta property="og:url" content="https://kat-heller272.github.io/ux-portfolio/">
+<meta name="twitter:card" content="summary_large_image">
 <!-- TemplateEndEditable -->
 </head>
 
